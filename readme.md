@@ -5,7 +5,7 @@
 
 ```
 MSCS_634_Project/
-│
+├── video_presentation.mp4                  # Video presentation
 ├── deliverable_4.ipynb                     # Consolidated notebook
 ├── README.md                               # Project documentation
 ├── Written_Report_Deliverable_4.pdf        # Written report
